@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervpdate",
+        "uuid": 24329975,
+        "checksum": "cc7rxf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
